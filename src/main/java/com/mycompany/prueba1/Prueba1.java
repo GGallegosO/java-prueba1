@@ -15,7 +15,7 @@ public class Prueba1 {
         System.err.println("Este es un error");
        
         
-        String  mensaje = "Este es un mensaje";
+        String  mensaje = "Este es un mensaje"; // variable String
         System.out.println(mensaje); // sout  ctrl + space  = autocompletado
      
     }
